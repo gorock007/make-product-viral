@@ -149,7 +149,7 @@ These are plain markdown files. Edit them — reweight a principle, add your own
 
 ## Credit
 
-The 32 Principles of a Viral Product are by **Mark Lu**, distilled from 5 years of building 35 startups in public. This skill packages them as a repeatable audit; the thinking is his.
+This skill was inspired by [Marc Lou's original post on X](https://x.com/marclou/status/2065385672991752210) and his **32 Principles of a Viral Product**. The principles were distilled from 5 years of building 35 startups in public. This skill packages them as a repeatable audit; the thinking is his.
 
 ## License
 
